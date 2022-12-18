@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHITELOTUS0/NODEMAILER-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHITELOTUS0/NODEMAILER-APP/issues"
+  },
+  "homepage": "https://github.com/WHITELOTUS0/NODEMAILER-APP#readme",
+  "dependencies": {
+    "nodemailer": "^6.8.0"
+  }
+}
